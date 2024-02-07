@@ -1,0 +1,24 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.138 Mobile/15E148 Safari/604.1",
+    "language": "en-IN",
+    "platform": "iPhone",
+    "screenResolution": "428x926",
+    "timezone": "Asia/Calcutta",
+    "cores": 4,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Safari",
+    "browserVersion": "604",
+    "webGL": {
+      "gpu": "Apple GPU",
+      "gpuVendor": "Apple Inc."
+    },
+    "osPlatform": "iOS",
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  }
+]

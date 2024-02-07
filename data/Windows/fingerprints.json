@@ -1,0 +1,46 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "language": "en-US",
+    "platform": "Win32",
+    "screenResolution": "1680x1050",
+    "timezone": "America/New_York",
+    "cores": 4,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Firefox",
+    "browserVersion": "122",
+    "webGL": {
+      "gpu": "ANGLE (Intel, Intel(R) HD Graphics 400 Direct3D11 vs_5_0 ps_5_0)",
+      "gpuVendor": "Google Inc. (Intel)"
+    },
+    "osPlatform": "Windows",
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "language": "en-US",
+    "platform": "Win32",
+    "screenResolution": "1680x1050",
+    "timezone": "America/New_York",
+    "cores": 4,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Firefox",
+    "browserVersion": "122",
+    "webGL": {
+      "gpu": "ANGLE (Intel, Intel(R) HD Graphics 400 Direct3D11 vs_5_0 ps_5_0)",
+      "gpuVendor": "Google Inc. (Intel)"
+    },
+    "osPlatform": "Windows",
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  }
+]

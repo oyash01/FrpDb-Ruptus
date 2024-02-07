@@ -1,0 +1,167 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "language": "en-US",
+    "platform": "Win32",
+    "screenResolution": "1680x1050",
+    "timezone": "America/New_York",
+    "cores": 4,
+    "ip": "::ffff:127.0.0.1",
+    "gpu": "ANGLE (Intel, Intel(R) HD Graphics 400 Direct3D11 vs_5_0 ps_5_0)",
+    "webglVendor": "Google Inc. (Intel)",
+    "country": "Unknown"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "language": "en-US",
+    "platform": "Win32",
+    "screenResolution": "1680x1050",
+    "timezone": "America/New_York",
+    "cores": 4,
+    "ip": "::ffff:127.0.0.1",
+    "browserName": "Firefox",
+    "browserVersion": "122",
+    "country": "Unknown"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+    "language": "en-US",
+    "platform": "Linux armv81",
+    "screenResolution": "360x804",
+    "timezone": "Asia/Calcutta",
+    "cores": 8,
+    "ip": "::ffff:192.168.1.32",
+    "browserName": "Chrome",
+    "browserVersion": "121",
+    "country": "Unknown"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+    "language": "en-US",
+    "platform": "Linux armv81",
+    "screenResolution": "360x804",
+    "timezone": "Asia/Calcutta",
+    "cores": 8,
+    "ip": "::ffff:192.168.1.32",
+    "browserName": "Chrome",
+    "browserVersion": "121",
+    "country": "Unknown"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "language": "en-US",
+    "platform": "Win32",
+    "screenResolution": "1680x1050",
+    "timezone": "America/New_York",
+    "cores": 4,
+    "ip": "::1",
+    "browserName": "Chrome",
+    "browserVersion": "120",
+    "country": "Unknown"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "language": "en-US",
+    "platform": "Win32",
+    "screenResolution": "1680x1050",
+    "timezone": "America/New_York",
+    "cores": 4,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Firefox",
+    "browserVersion": "122",
+    "webGL": {
+      "gpu": "ANGLE (Intel, Intel(R) HD Graphics 400 Direct3D11 vs_5_0 ps_5_0)",
+      "gpuVendor": "Google Inc. (Intel)"
+    },
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "language": "hi",
+    "platform": "Win32",
+    "screenResolution": "1920x1080",
+    "timezone": "Asia/Calcutta",
+    "cores": 10,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Chrome",
+    "browserVersion": "118",
+    "webGL": {
+      "gpu": "ANGLE (Intel, Intel(R) UHD Graphics 620 Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8681)",
+      "gpuVendor": "Google Inc. (Intel)"
+    },
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "language": "hi",
+    "platform": "Win32",
+    "screenResolution": "1920x1080",
+    "timezone": "Asia/Calcutta",
+    "cores": 10,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Chrome",
+    "browserVersion": "118",
+    "webGL": {
+      "gpu": "ANGLE (Intel, Intel(R) UHD Graphics 620 Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8681)",
+      "gpuVendor": "Google Inc. (Intel)"
+    },
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "language": "en-US",
+    "platform": "Win32",
+    "screenResolution": "1680x1050",
+    "timezone": "America/New_York",
+    "cores": 4,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Firefox",
+    "browserVersion": "122",
+    "webGL": {
+      "gpu": "ANGLE (Intel, Intel(R) HD Graphics 400 Direct3D11 vs_5_0 ps_5_0)",
+      "gpuVendor": "Google Inc. (Intel)"
+    },
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+    "language": "en-US",
+    "platform": "Linux armv81",
+    "screenResolution": "360x804",
+    "timezone": "Asia/Calcutta",
+    "cores": 8,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Chrome",
+    "browserVersion": "121",
+    "webGL": {
+      "gpu": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+      "gpuVendor": "Google Inc. (Qualcomm)"
+    },
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  }
+]

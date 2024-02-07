@@ -1,0 +1,24 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+    "language": "en-US",
+    "platform": "Linux armv81",
+    "screenResolution": "360x804",
+    "timezone": "Asia/Calcutta",
+    "cores": 8,
+    "memory": "Unknown",
+    "ip": "106.202.162.235",
+    "browserName": "Chrome",
+    "browserVersion": "121",
+    "webGL": {
+      "gpu": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+      "gpuVendor": "Google Inc. (Qualcomm)"
+    },
+    "osPlatform": "Android",
+    "geo": {
+      "country": "IN",
+      "region": "BR",
+      "city": "Patna"
+    }
+  }
+]
